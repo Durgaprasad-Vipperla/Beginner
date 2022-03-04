@@ -1,3 +1,2 @@
 I'm in file1
 file1 in the staged area not yet commited.
-updating file1
